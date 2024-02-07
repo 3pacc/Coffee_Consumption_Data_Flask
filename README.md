@@ -1,5 +1,6 @@
 # Coffee Consumption Data Management
 
+
 Avant de commencer, assurez-vous d'avoir installé Python sur votre machine. Vous pouvez le télécharger depuis [le site officiel de Python](https://www.python.org/).
 
 Ensuite, installez les dépendances nécessaires en exécutant la commande suivante dans votre terminal:
