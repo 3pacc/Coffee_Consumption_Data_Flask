@@ -5,6 +5,7 @@ Avant de commencer, assurez-vous d'avoir installé Python sur votre machine. Vou
 
 Ensuite, installez les dépendances nécessaires en exécutant la commande suivante dans votre terminal:
 
+
 ```bash
 pip install -r requirements.txt
 
